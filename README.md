@@ -8,10 +8,11 @@ Lesson 1: HTML and Semantics
 
 Content has been marked up. 
 
-
+<br/>
 
 Lesson 2: Art Direction and Element Collages
 
+<br>
 
 <a href="https://github.com/marksleator/IXD302/blob/master/Heroes%20and%20Villians%20Hand%20In/Exercise%202%20-%20Moodboard.jpg">Exercise 2A: Mood Board</a>
 
