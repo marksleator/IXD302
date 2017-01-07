@@ -12,27 +12,27 @@ Content has been marked up.
 
 Lesson 2: Art Direction and Element Collages
 
-Mood Board
-<a href="https://github.com/marksleator/IXD302/blob/master/Heroes%20and%20Villians%20Hand%20In/Exercise%202%20-%20Moodboard.jpg">Exercise 2A</a>
 
-Style Tile Defining specific design elements for my the bird website
+<a href="https://github.com/marksleator/IXD302/blob/master/Heroes%20and%20Villians%20Hand%20In/Exercise%202%20-%20Moodboard.jpg">Exercise 2A: Mood Board</a>
+
+<a href="https://github.com/marksleator/IXD302/blob/master/Heroes%20and%20Villians%20Hand%20In/Exercise%202%20-%20Style%20Tile.jpg">Exercise 2B: Style Tile</a>
+
 
 Lesson 3: Typography
 
-Typography Project Recreating this type poster with a quote from the game Bioshock Infinite. Here is the original image for comparison.
+Typography choices are viewable in Style Tiles and (in greater detail) in my final website designs.
+
 Lesson 4: Responsive Web Design (RWD)
 
-First formating in CSS First attempt at laying out the text of this piece with CSS. This was later scrapped because I thought this flowing design was too complicated and I later used a simpler layout (which you can see in my second attempt, and finished website)
+<a href="https://htmlpreview.github.io/?https://github.com/marksleator/IXD302/blob/master/Heroes%20and%20Villians%20Hand%20In/Exercise%204%20-CSS%20Only/index.html">Exercise 4A: CSS Styled Site</a>
 
-Finished CSS design My finished CSS design that gives heavy consideration to colour scheme and uses illustrative elements sparingly for more impact.
+<a href="https://htmlpreview.github.io/?https://github.com/marksleator/IXD302/blob/master/Heroes%20and%20Villians%20Hand%20In/Exercise%204B%20-%20Responsive/index.html">Exercise 4B: Responsive Site</a>
 
-Media Queries Finished Bird site including a media query for mobile.
+Site is Responsive using ems, % and vw with media queries used for Mobile Version.
 
 Lesson 5: Macro- and Micro-Interactions
 
-Chunking Content - With regards to chunking content, I had already considered this and integrated it into the design when doing the CSS for this site. Each area is given its own section, heading and subheading. I added my own subheadings to the content to liven it up a little and make the story more memorable.
-
-Micro-interactions- I had already included micro-interactions in my finished css site in the table element and also the nav bar.
+Exercise 5A + 5B are both viewable in my final design. I have segregated the information into seperate parts and added micro and macro interactions. <a href="https://htmlpreview.github.io/?https://github.com/marksleator/Sherlock/blob/master/index.html">Final Site Design</a>
 
 Heroes and Villians
 
