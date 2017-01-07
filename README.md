@@ -77,3 +77,5 @@ Site is Responsive using ems, % and vw with media queries used for Mobile Versio
 Lesson 5: Macro- and Micro-Interactions
 
 Exercise 5A + 5B are both viewable in my final design. I have segregated the information into seperate parts and added micro and macro interactions. <a href="https://marksleator.github.io/bird-project/">Final Site Design</a>
+
+Try hovering over the Takahe! 
