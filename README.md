@@ -70,7 +70,7 @@ Lesson 4: Responsive Web Design (RWD)
 
 <a href="https://htmlpreview.github.io/?https://github.com/marksleator/IXD302/blob/master/Takahe%20Bird%20Hand%20In/Exercise%20Four%20-%20Responsive/index.html">Exercise 4B: Responsive Site</a>
 
-Site is Responsive using ems, % and vw with media queries used for Mobile Version.
+Site is Responsive using ems, % and vw with media queries used for Mobile Version. Background colour changes on mobile version, text is formtted to be more apparent in Mobiles.
 
 <br>
 
